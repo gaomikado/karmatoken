@@ -18,12 +18,16 @@
           \  \ `-.   \_\_`. _.'_/_/  -' _.' 
 
 
-##Automated Liquidity Growth
+# KarmaToken
 
-RFI Static Rewards
+The Karma Protocol is a community driven, fair launched DeFi Token. Four functions occur during each trade: Reflection, LP Acquisition, Burn, and Charity Donations
 
-##Community driven & fair launch. 
+## Features
 
+Community driven & fair launch. 
 Karma transfers rewards from a donation wallet to fund charities selected by the holders.
 Every trade contributes towards automatically generating liquidity that goes into multiple pools used by exchanges.
 Holders & Charities earn passive income rewards through static reflection as they watch their balance of BUSD grow indefinately.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
