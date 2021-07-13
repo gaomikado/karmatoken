@@ -16,7 +16,7 @@
            ."" '<  `.___\_<|>_/___.' _> \"".
           | | :  `- \`. ;`. _/; .'/ /  .' ; |
           \  \ `-.   \_\_`. _.'_/_/  -' _.' 
-             Welcome to the valley of peace
+            Welcome to the valley of peace
 
 # KarmaToken
 
