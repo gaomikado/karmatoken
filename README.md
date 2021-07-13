@@ -16,14 +16,6 @@
            ."" '<  `.___\_<|>_/___.' _> \"".
           | | :  `- \`. ;`. _/; .'/ /  .' ; |
           \  \ `-.   \_\_`. _.'_/_/  -' _.' 
-88                                                             
-88                                                             
-88                                                             
-88   ,d8  ,adPPYYba, 8b,dPPYba, 88,dPYba,,adPYba,  ,adPPYYba,  
-88 ,a8"   ""     `Y8 88P'   "Y8 88P'   "88"    "8a ""     `Y8  
-8888[     ,adPPPPP88 88         88      88      88 ,adPPPPP88  
-88`"Yba,  88,    ,88 88         88      88      88 88,    ,88  
-88   `Y8a `"8bbdP"Y8 88         88      88      88 `"8bbdP"Y8  
 
 
 ##Automated Liquidity Growth
