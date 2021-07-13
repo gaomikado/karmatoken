@@ -32,6 +32,5 @@ Holders & Charities earn passive income rewards through static reflection as the
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![alt text](https://static.wixstatic.com/media/df4a3d_cce4a3312146426299bf2ac82f1732d6~mv2.png/v1/fill/w_238,h_61,al_c,q_85,usm_0.66_1.00_0.01/DEXT.webp)
-![alt text](https://static.wixstatic.com/media/df4a3d_14d95d091e6d43d991cc2ed3a46b156b~mv2.png/v1/fill/w_181,h_46,al_c,q_85,usm_0.66_1.00_0.01/BSCscan%20Logo.webp)
-![alt text](https://static.wixstatic.com/media/df4a3d_14d95d091e6d43d991cc2ed3a46b156b~mv2.png/v1/fill/w_181,h_46,al_c,q_85,usm_0.66_1.00_0.01/BSCscan%20Logo.webp)
+![alt text](https://wdogecoin.net/p-2.png)
+
