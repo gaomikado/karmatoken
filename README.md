@@ -17,7 +17,7 @@
           | | :  `- \`. ;`. _/; .'/ /  .' ; |
           \  \ `-.   \_\_`. _.'_/_/  -' _.' 
             Welcome to the valley of peace
-       0x038c5e190444da5bf3340db72378432fffb93ff8
+       0x6f35edb5ec7f38044d64d0986ba522c9ed1637f3
 
 # KarmaToken
 
